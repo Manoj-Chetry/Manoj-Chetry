@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manoj-Chetry
 - 👀 I’m interested in computers and technical stuffs.
-- 🌱 I’m currently learning cyber security
+- 🌱 I’m currently learning web technology
 - 💞️ I’m looking to collaborate on cyber security projects
 - 📫 How to reach me .. mchetry606@gmail.com
 
